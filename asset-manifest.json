@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spidr-interest-form/static/css/main.5b33bb36.css",
+    "main.js": "/spidr-interest-form/static/js/main.dd95ecc2.js",
+    "static/js/453.042779f7.chunk.js": "/spidr-interest-form/static/js/453.042779f7.chunk.js",
+    "index.html": "/spidr-interest-form/index.html",
+    "main.5b33bb36.css.map": "/spidr-interest-form/static/css/main.5b33bb36.css.map",
+    "main.dd95ecc2.js.map": "/spidr-interest-form/static/js/main.dd95ecc2.js.map",
+    "453.042779f7.chunk.js.map": "/spidr-interest-form/static/js/453.042779f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b33bb36.css",
+    "static/js/main.dd95ecc2.js"
+  ]
+}
